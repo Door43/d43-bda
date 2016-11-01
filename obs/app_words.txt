@@ -1,0 +1,25 @@
+//Translation for the unfoldingWord mobile app interface //
+
+Select a language: Selecionar idioma
+
+Chapters: Capítulos
+
+Languages: Idiomas
+
+Next chapter: Próximo capítulo
+
+OK: Confirmar
+
+Cancel: Cancelar
+
+Save locally: Salvar localmente
+
+Save this string: Salvar seqüência
+
+Save this language locally for offline use: Salvar idioma para uso local offline.
+
+Remove locally: Apagar localmente
+
+Remove this string: Apagar seqüência
+
+Remove this language from offline storage. You will need an internet connection to view it in the future: Apagar esse idioma da armazenagem offline. Você precisará de conexão à Internet para acessá-lo no futuro.
